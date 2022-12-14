@@ -16,30 +16,48 @@ In terms of functionality it is fairly simple there are links at the top/bottom 
 
 ## How To Install
 
-The file is written in standard HTML, CSS & uses external JavaScript files so there shouldn't issues you just need to download the files and run the html files either in a browser or an environment of you choosing.
+The file is written in standard HTML, CSS & uses external JavaScript files that you will need an internet connection for so there shouldn't be any issues, you just need to download the files and run the html files either in a browser or an environment of you choosing.
 
 Alternatively you can check it out here on Github: [Click here to give it a try.](https://alexhill-coder.github.io/finalCapstone/)
 
 ## How To Use
 
+To use is very simple the website is response and connects to each other, so you can just play around with the dimentions and the links. Below shows the contact us page of the the website when in widescreen.
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119125564/207594361-ea1aeaf4-1218-49bd-b2d3-947344c415df.png" alt="website widescreen"/>
+<img src="https://user-images.githubusercontent.com/119125564/207594361-ea1aeaf4-1218-49bd-b2d3-947344c415df.png" alt="website widescreen" width="50%"/>
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119125564/207594419-cb5f01a7-3a8f-49eb-953c-5f7db3c273bc.png" alt="website smallscreen"/>
+ The next image shows it at phone size showing how the site has responded to the screen size no problem.
+</p>
+ 
+<p align="center">    
+<img src="https://user-images.githubusercontent.com/119125564/207594419-cb5f01a7-3a8f-49eb-953c-5f7db3c273bc.png" alt="website smallscreen" width="30%"/>
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119125564/207594464-863b4c62-f78b-45eb-9513-c1ae5b714f48.png" alt="website top bar"/>
+ This image shows the main nav bar and how it will reduce to a popup menu when the screen is small.
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119125564/207594481-98c0df30-215b-4951-8308-a5eb16e098c2.png" alt="website bottom bar"/>
+<img src="https://user-images.githubusercontent.com/119125564/207594464-863b4c62-f78b-45eb-9513-c1ae5b714f48.png" alt="website top bar" width="50%"/>
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119125564/207594525-c7d9eba3-6312-444c-b7a5-e8bce7b16f60.png" alt="website index page"/>
+ This footer of the page contains a number of links and is designed to fit all screen dimentions.
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/119125564/207594481-98c0df30-215b-4951-8308-a5eb16e098c2.png" alt="website bottom bar" width="50%"/>
+</p>
+
+<p align="center">
+ The final image shows a number of images on Bootstrap cards that allow the rows to be adjusted depending on the screen size. They are also links that will take you to the collections page.
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/119125564/207594525-c7d9eba3-6312-444c-b7a5-e8bce7b16f60.png" alt="website index page" width="50%"/>
 </p>
 
 ## How you can help
@@ -49,13 +67,15 @@ If you wish to contribute to any of my files, you are more than welcome to as lo
  - If you are making major changes please branch the project.
  - Provide a name/handle so you can be aknowledged for your work.
  - You do not require my permission to proceed with any changes.
- - As this is Unlicensed the project may be copied to another repository for any reason at any time and used how they see fit.
+ - As this is an MIT License the project may be copied to another repository for any reason at any time and used how they see fit.
 
 ## License
 
-This project falls under The Unlicense allowing for the use of this project for any purpose. For more information on this type of license please see the [LICENSE.md](https://github.com/alexhill-coder/finalCapstone/blob/master/LICENSE.md)
+This project falls under The MIT License allowing for the use of this project for any purpose. For more information on this type of license please see the [LICENSE.md](https://github.com/alexhill-coder/finalCapstone/blob/master/LICENSE.md)
 
 ## Credits
+
+- Alex Hill
 
 ## Contact
 
