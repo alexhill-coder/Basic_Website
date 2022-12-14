@@ -22,6 +22,26 @@ Alternatively you can check it out here on Github: [Click here to give it a try.
 
 ## How To Use
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/119125564/207594361-ea1aeaf4-1218-49bd-b2d3-947344c415df.png" alt="website widescreen"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/119125564/207594419-cb5f01a7-3a8f-49eb-953c-5f7db3c273bc.png" alt="website smallscreen"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/119125564/207594464-863b4c62-f78b-45eb-9513-c1ae5b714f48.png" alt="website top bar"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/119125564/207594481-98c0df30-215b-4951-8308-a5eb16e098c2.png" alt="website bottom bar"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/119125564/207594525-c7d9eba3-6312-444c-b7a5-e8bce7b16f60.png" alt="website index page"/>
+</p>
+
 ## How you can help
 
 If you wish to contribute to any of my files, you are more than welcome to as long as you keep in mind the following:
