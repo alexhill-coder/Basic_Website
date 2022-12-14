@@ -1,12 +1,26 @@
-# Dice Mini-Game
+# Capstone Project IV - Create a Webpage With HTML and CSS.
 
-A simple game that randomly selects 2 numbers and alters the images on the page to the correct numbered dice. The header will also change declaring which dice is the winner or if there is a draw.
+A project to demonstrate my progress in the HyperionDev bootcamp. Using HTML, CSS and Bootstrap a website was developed in accordance with the task to 
+have images, lists, paragraphs, tables, multiple pages, a testimonial and form buttons.
 
-[Click here to give it a try.](https://alexhill-coder.github.io/dice-minigame/)
+In terms of functionality it is fairly simple there are links at the top/bottom of the screen that allow movement between the html pages with additional links on the index.html to the about and collections page. The website is fully responsive so can be seen on any device.
 
-## How to Use
+## Contents
 
-The file is written in standard HTML, CSS & JavaScript so there shouldn't be any issues running this from here or on your systems. 
+- [How To Install](#how-to-install)
+- [How To Use](#how-to-use)
+- [How You Can Help](#how-you-can-help)
+- [License](#license)
+- [Credits](#credits)
+- [Contact](#contact)
+
+## How To Install
+
+The file is written in standard HTML, CSS & uses external JavaScript files so there shouldn't issues you just need to download the files and run the html files either in a browser or an environment of you choosing.
+
+Alternatively you can check it out here on Github: [Click here to give it a try.](https://alexhill-coder.github.io/finalCapstone/)
+
+## How To Use
 
 ## How you can help
 
@@ -20,6 +34,8 @@ If you wish to contribute to any of my files, you are more than welcome to as lo
 ## License
 
 This project falls under The Unlicense allowing for the use of this project for any purpose. For more information on this type of license please see the [LICENSE.md](https://github.com/alexhill-coder/finalCapstone/blob/master/LICENSE.md)
+
+## Credits
 
 ## Contact
 
