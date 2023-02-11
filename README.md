@@ -18,7 +18,7 @@ In terms of functionality it is fairly simple there are links at the top/bottom 
 
 The file is written in standard HTML, CSS & uses external JavaScript files that you will need an internet connection for so there shouldn't be any issues, you just need to download the files and run the html files either in a browser or an environment of you choosing.
 
-Alternatively you can check it out here on Github: [Click here to give it a try.](https://alexhill-coder.github.io/finalCapstone/)
+Alternatively you can check it out here on Github: [Click here to give it a try.](https://alexhill-coder.github.io/Basic_Website/)
 
 ## How To Use
 
