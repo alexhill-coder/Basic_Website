@@ -1,4 +1,4 @@
-# Capstone Project IV - Create a Webpage With HTML and CSS.
+# A Webpage Made With HTML, CSS & Bootstrap.
 
 A project to demonstrate my progress in the HyperionDev bootcamp. Using HTML, CSS and Bootstrap a website was developed in accordance with the task to 
 have images, lists, paragraphs, tables, multiple pages, a testimonial and form buttons.
